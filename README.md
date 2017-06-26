@@ -1,3 +1,3 @@
 # K-MeansClustering-PrincipalComponentAnalysis
 This example aims to familiarize yourselves with K-means clustering and Principle Component Analysis through implementing 
-and applying them on a real data set, for image compression problem.
+and applying them on a real data set, for image compression problem. You can check hw3.pdf for details.
